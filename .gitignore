@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables / API keys
+.env
+.env.*
+
+# Flask
+instance/
+
+# Uploaded files
+uploads/
+static/uploads/
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Large files
+*.zip
+*.rar
+
+# OS
+.DS_Store
+Thumbs.db
